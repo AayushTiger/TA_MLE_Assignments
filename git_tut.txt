@@ -1,0 +1,27 @@
+Script started on 2022-07-06 12:57:31+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;aayush@TIGER03185: ~[01;32maayush@TIGER03185[00m:[01;34m~[00m$ suod[K[Kdo apt get install git
+[sudo] password for aayush: 
+[1;31mE: [0mInvalid operation get[0m
+]0;aayush@TIGER03185: ~[01;32maayush@TIGER03185[00m:[01;34m~[00m$ sudo apt get install git[C[1@C[C[1P[1P[1P[1P[1P
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+git is already the newest version (1:2.25.1-1ubuntu3).
+git set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+]0;aayush@TIGER03185: ~[01;32maayush@TIGER03185[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2022-07-06 12:59:18+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-07-06 13:17:45+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="168" LINES="43"]
+]0;aayush@TIGER03185: /mnt/c/Users/aayush.sethia/Desktop/Ubuntu[01;32maayush@TIGER03185[00m:[01;34m/mnt/c/Users/aayush.sethia/Desktop/Ubuntu[00m$ sudo apt g[Kinstall git
+[sudo] password for aayush: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+git is already the newest version (1:2.25.1-1ubuntu3).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+]0;aayush@TIGER03185: /mnt/c/Users/aayush.sethia/Desktop/Ubuntu[01;32maayush@TIGER03185[00m:[01;34m/mnt/c/Users/aayush.sethia/Desktop/Ubuntu[00m$ exit
+exit
+
+Script done on 2022-07-06 13:18:08+05:30 [COMMAND_EXIT_CODE="0"]
