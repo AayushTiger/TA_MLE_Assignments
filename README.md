@@ -14,10 +14,13 @@ The following techniques have been used:
  - Multiple sampling techinuqies are evaluated. The data set is split into train and test.
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
+## For Contributors and Development
+
+* Fork the repo here, https://github.com/AayushTiger/mle-training/tree/enh/%232/asgnmt1.2 
+* Create a dev environment using the .yml file
+   * `conda env -f env.yml`
+* Activating environment
+   * `conda activate mle-dev`
+   
 ## To excute the script
 python < scriptname.py >
-
-## ##To run the code:
-- We have first installed the packages required ( numpy, pandas, matplotlib, sklearn) using conda install packagename
-_ then we have completed the code as several lines were found to be incomplete
-- then using the environment we have run the script and saved the env.yml file and committed the changes.
