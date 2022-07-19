@@ -18,9 +18,9 @@ The following techniques have been used:
 
 * Fork the repo here, https://github.com/AayushTiger/mle-training/tree/enh/%232/asgnmt1.2 
 * Create a dev environment using the .yml file
-   * `conda env -f env.yml`
+   * `conda create -n mle-dev `
 * Activating environment
    * `conda activate mle-dev`
    
 ## To excute the script
-python < scriptname.py >
+python nonstandardcode.py
