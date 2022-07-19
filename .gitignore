@@ -1,0 +1,3 @@
+# git ignore file to ignore csv files and pyc files
+*.csv
+*.pyc
